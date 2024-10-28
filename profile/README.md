@@ -1,6 +1,6 @@
 <div align='center'>
 
-![Logo](../hyprutils_transparent.png)
+<img src='../hyprutils_transparent.png' width='200' height='200'>
 
 # HyprUtils
 Unofficial tools made by the community. Everyone is welcome to contribute.
