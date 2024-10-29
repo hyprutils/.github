@@ -1,6 +1,6 @@
 <div align='center'>
 
-<img src='../hyprutils_transparent.png' width='200' height='200'>
+<a href="https://hyprutils.github.io" target="_blank"><img src='../hyprutils_transparent.png' width='200' height='200'></a>
 
 # HyprUtils
 Unofficial tools made by the community. Everyone is welcome to contribute.
