@@ -9,6 +9,9 @@ Unofficial tools made by the community. Everyone is welcome to contribute.
 <a href='https://github.com/hyprutils/hyprgui'><img src='https://raw.githubusercontent.com/hyprutils/hyprgui/refs/heads/main/hyprgui.png' width='100' height='100' alt='HyprGUI'></a>
 <a href='https://github.com/hyprutils/hyprwall'><img src='https://raw.githubusercontent.com/hyprutils/hyprwall/refs/heads/main/hyprwall.png' width='100' height='100' alt='Hyprwall'></a>
 <a href='https://github.com/hyprutils/hyprlauncher'><img src='https://raw.githubusercontent.com/hyprutils/hyprlauncher/refs/heads/main/hyprlauncher.png' width='100' height='100' alt='Hyprlauncher'></a>
+<br><br>
+
+[🌐 Website](https://hyprutils.github.io) • [🦋 Bluesky](https://bsky.app/profile/hyprutils.github.io) • [🥽 Discord](https://discord.gg/JJz2BXuaJF)
 
 </div>
 
