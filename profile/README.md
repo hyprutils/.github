@@ -3,6 +3,9 @@
 <a href="https://hyprutils.github.io" target="_blank"><img src='../hyprutils_transparent.png' width='200' height='200'></a>
 
 # HyprUtils
+
+[![Grind Compliant](https://img.shields.io/badge/Grind-Compliant-blue)](https://github.com/The-Grindhouse/guidelines)
+
 Unofficial tools made by the community. Everyone is welcome to contribute.
 
 <br>
